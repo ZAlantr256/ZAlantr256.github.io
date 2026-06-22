@@ -4,7 +4,7 @@ author: "Alan Zhang"
 format:
     html:
         code-fold: true
-date: 22-06-2026
+date: "2026-06-22"
 --- 
 
 # Uncorrelated estimators
