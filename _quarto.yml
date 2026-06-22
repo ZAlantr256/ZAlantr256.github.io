@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "azBlog"
+  search: false
+  navbar:
+    title: "azBlog"
+    right:
+      - text: "Posts"
+        href: index.qmd
+    tools:
+      - icon: github
+        href: https://github.com/ZAlantr256
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: false

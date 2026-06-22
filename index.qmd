@@ -1,0 +1,13 @@
+---
+title: "Posts"
+title-block-style: none
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+---
+
+::: {.home-hero}
+Hi, I'm Alan and welcome to my blog. Here I'm hoping to write about machine learning, statistics, and whatever else interests me. I don't know how often I'll post, but I hope you learn something from reading what I've written.
+:::
